@@ -1,13 +1,11 @@
 °¡°¡°¡
 aaa
 ccc
-<<<<<<< HEAD
 ggg
 hhhh
-=======
 aaa
 bbb
 cccc
 ffffaf
 asfasf
->>>>>>> V1.2
+
